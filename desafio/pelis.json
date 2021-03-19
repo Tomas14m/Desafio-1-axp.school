@@ -1,0 +1,22 @@
+[{
+        "title": "Shrek",
+        "rating": 10,
+        "tags": ["comedia", "favorita", "infantil"]
+    },
+    {
+        "title": "The avengers: EndGame",
+        "rating": 9,
+        "tags": ["nueva", "accion", "superheroes"]
+    },
+    {
+        "title": "Paul",
+        "rating": 10,
+        "tags": ["comedia","favorita"]
+
+    },
+    {
+        "title": "Harry potter: El prisionero de azkaban",
+        "rating": 8,
+        "tags": ["fantasia","magia"]
+    
+    }]
